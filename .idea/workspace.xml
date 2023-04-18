@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b40ec62a-b2f1-4cf5-8bdf-757eccc9e077" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structurais/Guest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structurais/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structurais/GuestFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/structurais/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RoomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/structurais/RoomFactory.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +50,34 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.RoomTest.deveRetornarTotalHospedes">
+    <configuration name="RoomTest.deveRetonarQuartos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flyweightStandard" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RoomTest" />
+      <option name="METHOD_NAME" value="deveRetonarQuartos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomTest.deveRetornarTotalHospedes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flyweightStandard" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RoomTest" />
+      <option name="METHOD_NAME" value="deveRetornarTotalHospedes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RoomTest.deveRetornarTotalHospedes" />
+        <item itemvalue="JUnit.RoomTest.deveRetonarQuartos" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,5 +88,16 @@
       <updated>1681781253682</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
